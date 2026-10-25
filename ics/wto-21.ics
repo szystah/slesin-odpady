@@ -1,0 +1,939 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (wtorek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:wto-20260107-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Honoratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Du
+ ża\, Dąbrowa Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, R
+ óżnowo\, Biskupie Sarnowskie\, Sarnowa\, Florentynowo\n\nTermin przesuni
+ ęty ze względu na święto: Trzech Króli.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260113-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260120-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260127-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260203-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Honoratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Du
+ ża\, Dąbrowa Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, R
+ óżnowo\, Biskupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260210-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260217-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260224-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260303-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260310-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260317-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260324-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260331-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Honoratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Du
+ ża\, Dąbrowa Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, R
+ óżnowo\, Biskupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260407-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260414-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260421-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260428-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260505-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260512-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260519-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260526-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260602-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260609-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260616-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260623-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260630-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260707-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260714-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260721-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260728-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260804-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260811-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260818-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260825-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260901-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260908-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260915-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260922-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260929-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Honoratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Du
+ ża\, Dąbrowa Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, R
+ óżnowo\, Biskupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261006-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261013-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261020-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261027-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261103-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261110-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261117-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261124-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Honoratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Du
+ ża\, Dąbrowa Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, R
+ óżnowo\, Biskupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261201-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261208-nipa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, papier i plastik
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: papier\, plastik\n\nMiejscowości: Honoratka\, Władysławów\, Ręb
+ owo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Gor
+ aninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, F
+ lorentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261215-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Honoratka\, Władysł
+ awów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, G
+ oranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\,
+  Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261222-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Honoratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Du
+ ża\, Dąbrowa Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, R
+ óżnowo\, Biskupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261229-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Honoratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Du
+ ża\, Dąbrowa Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, R
+ óżnowo\, Biskupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

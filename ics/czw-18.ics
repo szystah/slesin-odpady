@@ -1,0 +1,435 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (czwartek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:czw-20260115-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260129-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260212-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260226-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260312-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260326-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260409-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260423-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260507-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Lic
+ heń Stary\, Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Pół
+ wiosek Stary\, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\,
+  Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260521-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260605-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Lic
+ heń Stary\, Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Pół
+ wiosek Stary\, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\,
+  Smolarnia\, Trajbudy\n\nTermin przesunięty ze względu na święto: Boż
+ e Ciało.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260618-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260702-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Lic
+ heń Stary\, Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Pół
+ wiosek Stary\, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\,
+  Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260716-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260730-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Lic
+ heń Stary\, Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Pół
+ wiosek Stary\, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\,
+  Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260813-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260827-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Lic
+ heń Stary\, Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Pół
+ wiosek Stary\, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\,
+  Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260910-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260924-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Lic
+ heń Stary\, Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Pół
+ wiosek Stary\, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\,
+  Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261008-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261022-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261105-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261119-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261203-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261217-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Licheń Stary\, Julia\, Kępa\, Nied
+ źwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwiosek Nowy\,
+  Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

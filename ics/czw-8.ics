@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (czwartek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:czw-20260305-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Licheń Stary\, Julia\, K
+ ępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwi
+ osek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260611-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Licheń Stary\, Julia\, K
+ ępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwi
+ osek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260917-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Licheń Stary\, Julia\, K
+ ępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwi
+ osek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261210-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Licheń Stary\, Julia\, K
+ ępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary\, Półwi
+ osek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\, Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

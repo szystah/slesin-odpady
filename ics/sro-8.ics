@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (środa)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:sro-20260304-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Biskupie\, Kolonia Sarnow
+ a\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie Now
+ iny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, Hel
+ enowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Konst
+ antynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260610-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Biskupie\, Kolonia Sarnow
+ a\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie Now
+ iny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, Hel
+ enowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Konst
+ antynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260916-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Biskupie\, Kolonia Sarnow
+ a\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie Now
+ iny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, Hel
+ enowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Konst
+ antynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261209-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Biskupie\, Kolonia Sarnow
+ a\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie Now
+ iny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, Hel
+ enowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Konst
+ antynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

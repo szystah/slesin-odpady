@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (wtorek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:wto-20260303-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Honoratka\, Władysławó
+ w\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goran
+ in\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sar
+ nowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260609-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Honoratka\, Władysławó
+ w\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goran
+ in\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sar
+ nowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260915-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Honoratka\, Władysławó
+ w\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goran
+ in\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sar
+ nowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261208-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Honoratka\, Władysławó
+ w\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goran
+ in\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sar
+ nowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

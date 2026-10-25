@@ -1,0 +1,521 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (wtorek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:wto-20260113-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260127-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260210-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260224-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260303-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Honoratka\, Władysławó
+ w\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goran
+ in\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sar
+ nowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260310-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260324-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260407-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260421-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260505-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Hon
+ oratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa
+  Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Bis
+ kupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260519-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260602-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Hon
+ oratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa
+  Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Bis
+ kupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260609-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Honoratka\, Władysławó
+ w\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goran
+ in\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sar
+ nowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260616-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260630-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Hon
+ oratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa
+  Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Bis
+ kupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260714-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260728-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Hon
+ oratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa
+  Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Bis
+ kupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260811-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260825-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Hon
+ oratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa
+  Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Bis
+ kupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260908-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260915-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Honoratka\, Władysławó
+ w\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goran
+ in\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sar
+ nowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260922-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Hon
+ oratka\, Władysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa
+  Mała\, Biele\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Bis
+ kupie Sarnowskie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261006-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261020-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261103-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261117-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261201-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261208-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Honoratka\, Władysławó
+ w\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goran
+ in\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sar
+ nowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261215-pobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel\, bio
+DESCRIPTION:Popiół i żużel z palenisk domowych\nBiodegradowalne (worki 
+ koloru brązowego)\n\nMiejscowości: Honoratka\, Władysławów\, Rębowo\
+ , Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Biele\, Goranin\, Goranin
+ ek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnowskie\, Sarnowa\, Flore
+ ntynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

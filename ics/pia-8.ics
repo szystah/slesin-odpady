@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (piątek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:pia-20260306-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Głębockie Pierwsze\, G
+ łębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Różop
+ ole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, S
+ molniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Pogoń
+  Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Bylew Pa
+ rcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260612-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Głębockie Pierwsze\, G
+ łębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Różop
+ ole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, S
+ molniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Pogoń
+  Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Bylew Pa
+ rcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260918-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Głębockie Pierwsze\, G
+ łębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Różop
+ ole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, S
+ molniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Pogoń
+  Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Bylew Pa
+ rcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261211-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Głębockie Pierwsze\, G
+ łębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Różop
+ ole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, S
+ molniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Pogoń
+  Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Bylew Pa
+ rcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

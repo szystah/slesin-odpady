@@ -1,0 +1,1024 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (piątek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:pia-20260102-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260109-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260116-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260123-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260130-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260206-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260213-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260220-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260227-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260306-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260313-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260320-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260327-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260403-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260410-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260417-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260424-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260430-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele\n\nTermin przesunięty ze względ
+ u na święto: Święto Pracy (1.05).
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260508-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Głębockie Pierwsze\
+ , Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Ró
+ żopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele
+ \, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Po
+ goń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Byle
+ w Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260515-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260522-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260529-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260605-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Głębockie Pierwsze\
+ , Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Ró
+ żopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele
+ \, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Po
+ goń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Byle
+ w Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260612-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260619-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260626-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260703-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Głębockie Pierwsze\
+ , Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Ró
+ żopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele
+ \, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Po
+ goń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Byle
+ w Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260710-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260717-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260724-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260731-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Głębockie Pierwsze\
+ , Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Ró
+ żopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele
+ \, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Po
+ goń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Byle
+ w Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260807-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260814-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260821-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260828-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Głębockie Pierwsze\
+ , Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Ró
+ żopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele
+ \, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Po
+ goń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Byle
+ w Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260904-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260911-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260918-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260925-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Głębockie Pierwsze\
+ , Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Ró
+ żopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele
+ \, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Po
+ goń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Byle
+ w Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261002-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261009-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261016-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261023-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261030-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261106-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261113-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261120-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261127-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261204-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261211-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261218-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów
+ \, Półwiosek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsi
+ n\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, W
+ ierzelin\, Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstows
+ ka\, Pogoń-Leśniczówka\, Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261223-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Głębockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwi
+ osek Lubstowski\, Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebk
+ i-Ługi\, Ignacewo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\,
+  Leśnictwo\, Piotrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogo
+ ń-Leśniczówka\, Bylew\, Bylew Parcele\n\nTermin przesunięty ze względ
+ u na święto: Boże Narodzenie (25.12).
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

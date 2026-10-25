@@ -1,0 +1,349 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (czwartek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:czw-20260122-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260219-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260305-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260319-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260416-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260430-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260514-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260528-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260611-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260625-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260709-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260723-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260806-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260820-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260903-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20260917-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261015-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261029-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261112-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:czw-20261210-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Licheń Stary\,
+  Julia\, Kępa\, Niedźwiady Małe\, Niedźwiady Duże\, Półwiosek Stary
+ \, Półwiosek Nowy\, Wąsosze\, Wąsoskie Holendry\, Wygoda\, Smolarnia\,
+  Trajbudy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,446 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (piątek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:pia-20260116-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260130-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260213-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260227-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260306-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Głębockie Pierwsze\, G
+ łębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Różop
+ ole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, S
+ molniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Pogoń
+  Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Bylew Pa
+ rcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260313-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260327-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260410-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260424-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260522-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260612-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Głębockie Pierwsze\, G
+ łębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Różop
+ ole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, S
+ molniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Pogoń
+  Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Bylew Pa
+ rcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260619-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260717-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260814-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260911-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20260918-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Głębockie Pierwsze\, G
+ łębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Różop
+ ole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, S
+ molniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Pogoń
+  Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Bylew Pa
+ rcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261009-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261023-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261106-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261120-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261204-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261211-sz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🗑️ Wywóz odpadów: szkło
+DESCRIPTION:Segregowane: szkło\n\nMiejscowości: Głębockie Pierwsze\, G
+ łębockie Drugie\, Witalisów\, Półwiosek Lubstowski\, Tokary\, Różop
+ ole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignacewo\, Pogorzele\, S
+ molniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Piotrkowice\, Pogoń
+  Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\, Bylew\, Bylew Pa
+ rcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pia-20261218-po@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🗑️ Wywóz odpadów: popiół i żużel
+DESCRIPTION:Popiół i żużel z palenisk domowych\n\nMiejscowości: Głęb
+ ockie Pierwsze\, Głębockie Drugie\, Witalisów\, Półwiosek Lubstowski\
+ , Tokary\, Różopole\, Kolebki\, Kolebki-Frąsin\, Kolebki-Ługi\, Ignace
+ wo\, Pogorzele\, Smolniki\, Smolniki Polskie\, Wierzelin\, Leśnictwo\, Pi
+ otrkowice\, Pogoń Gosławicka\, Pogoń Lubstowska\, Pogoń-Leśniczówka\
+ , Bylew\, Bylew Parcele
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

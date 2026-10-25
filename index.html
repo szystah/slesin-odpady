@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wywóz odpadów – Ślesin 2026 – kod QR do kalendarza</title>
+<meta name="description" content="Wybierz miejscowość w gminie Ślesin i dodaj terminy wywozu odpadów w 2026 roku do swojego kalendarza – przez kod QR.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #E6ECE2;
+  --ink: #16241B;
+  --muted: #55645A;
+  --line: #B7C3B3;
+  --field: #F7FAF5;
+  --forest: #14301F;
+  --forest-ink: #EAF2E6;
+  --forest-muted: #A9BDAF;
+  --action: #1F6B3E;
+  --action-ink: #FFFFFF;
+  --focus: #0B5FD6;
+  --font: "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font-family: var(--font); font-size: 1.0625rem; line-height: 1.5;
+}
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+[hidden] { display: none !important; }
+
+.page { max-width: 68rem; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+
+.top { max-width: 40rem; margin-bottom: 1.75rem; }
+h1 { font-size: clamp(1.75rem, 5.5vw, 2.75rem); line-height: 1.1; letter-spacing: -0.015em; margin: 0 0 0.75rem; }
+.lead { margin: 0; color: var(--muted); max-width: 36rem; }
+
+.layout { display: grid; gap: 1.5rem; }
+@media (min-width: 52rem) {
+  .layout { grid-template-columns: minmax(0, 1fr) 24rem; gap: 2.5rem; align-items: start; }
+  .qr-panel { position: sticky; top: 1.5rem; }
+}
+
+h2 { font-size: 1.25rem; line-height: 1.25; margin: 0 0 0.75rem; }
+.step { margin-bottom: 2rem; }
+.step-hint { margin: -0.4rem 0 0.75rem; color: var(--muted); font-size: 0.95rem; }
+
+/* Wyszukiwarka miejscowości */
+.search {
+  width: 100%; font: inherit; color: var(--ink);
+  padding: 0.8rem 1rem; border: 2px solid var(--line); border-radius: 0.5rem;
+  background: var(--field);
+}
+.search:focus { border-color: var(--action); }
+.places {
+  list-style: none; margin: 0.5rem 0 0; padding: 0;
+  max-height: 17rem; overflow-y: auto; overscroll-behavior: contain;
+  border: 2px solid var(--line); border-radius: 0.5rem; background: var(--field);
+}
+.places li + li { border-top: 1px solid var(--line); }
+.place {
+  display: flex; justify-content: space-between; align-items: baseline; gap: 1rem;
+  width: 100%; padding: 0.7rem 1rem; text-align: left;
+  font: inherit; color: inherit; background: none; border: 0; cursor: pointer;
+}
+.place:hover { background: #E9F0E5; }
+.place[aria-current="true"] { background: var(--forest); color: var(--forest-ink); }
+.place .where { font-size: 0.875rem; color: var(--muted); white-space: nowrap; }
+.place[aria-current="true"] .where { color: var(--forest-muted); }
+.noresults { margin: 0.5rem 0 0; color: var(--muted); }
+
+/* Rodzaje odpadów */
+.types { display: grid; gap: 0.5rem; }
+.type {
+  display: grid; grid-template-columns: 1.4rem 1fr; gap: 0.75rem; align-items: center;
+  padding: 0.65rem 0.9rem; border: 2px solid var(--line); border-radius: 0.5rem;
+  background: var(--field); cursor: pointer;
+}
+.type:has(input:checked) { border-color: var(--tone); background: #fff; }
+.type:has(input:focus-visible) { outline: 3px solid var(--focus); outline-offset: 2px; }
+.type input { width: 1.25rem; height: 1.25rem; margin: 0; accent-color: var(--tone); }
+.type .name { font-weight: 700; display: block; }
+.type .next { font-size: 0.9rem; color: var(--muted); display: block; }
+.type .swatch { display: inline-block; width: 0.7rem; height: 0.7rem; border-radius: 50%; background: var(--tone); margin-right: 0.45rem; }
+
+/* Panel z kodem QR */
+.qr-panel {
+  background: var(--forest); color: var(--forest-ink);
+  border-radius: 1rem; padding: 1.5rem;
+}
+.qr-panel h2 { margin-bottom: 0.25rem; }
+.qr-panel .sub { margin: 0 0 1rem; color: var(--forest-muted); font-size: 0.95rem; }
+.qr-tile { background: #fff; border-radius: 0.5rem; padding: 0.25rem; line-height: 0; }
+.qr-tile svg { display: block; width: 100%; height: auto; }
+.empty { margin: 0; color: var(--forest-muted); }
+.scan-note { margin: 1rem 0; font-size: 0.95rem; color: var(--forest-muted); }
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 0.4rem;
+  min-height: 2.9rem; padding: 0.6rem 1rem; font: inherit; font-weight: 700;
+  border-radius: 0.5rem; border: 2px solid transparent; cursor: pointer; text-decoration: none;
+}
+.btn-main { width: 100%; background: #fff; color: var(--forest); }
+.btn-main:hover { background: #E6F1E2; }
+.btn-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; margin-top: 0.5rem; }
+.btn-alt { background: transparent; color: var(--forest-ink); border-color: #4C6A56; font-size: 0.95rem; padding: 0.5rem 0.4rem; }
+.btn-alt:hover { border-color: var(--forest-ink); }
+.qr-panel :focus-visible { outline-color: #fff; }
+.status { min-height: 1.4rem; margin: 0.5rem 0 0; font-size: 0.9rem; color: var(--forest-muted); }
+.warn { margin: 0.75rem 0 0; padding: 0.6rem 0.8rem; border-radius: 0.5rem; background: #FFE9A8; color: #3D2F00; font-size: 0.9rem; }
+details.group { margin-top: 1rem; border-top: 1px solid #36513F; padding-top: 0.75rem; }
+details.group summary { cursor: pointer; font-weight: 700; }
+details.group p { margin: 0.5rem 0 0; color: var(--forest-muted); font-size: 0.95rem; }
+.alt-link { display: block; margin-top: 0.75rem; color: var(--forest-muted); font-size: 0.9rem; }
+
+.foot { margin-top: 2.5rem; max-width: 40rem; color: var(--muted); font-size: 0.9rem; }
+.foot p { margin: 0 0 0.5rem; }
+
+.print-only { display: none; }
+@media print {
+  body { background: #fff; color: #000; font-size: 12pt; }
+  .top, .step, .foot, .btn, .btn-row, .status, .alt-link, .scan-note, .warn, details.group summary { display: none !important; }
+  .layout { display: block; }
+  .qr-panel { position: static; background: #fff; color: #000; padding: 0; border-radius: 0; }
+  .qr-panel .sub, .qr-panel details.group p { color: #000; }
+  details.group { border: 0; }
+  details.group[open] { display: block; }
+  .qr-tile { max-width: 11cm; border: 1px solid #000; }
+  .print-only { display: block; }
+  .print-only h1 { font-size: 20pt; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .qr-tile { transition: opacity 0.15s; }
+}
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="top">
+    <h1>Wywóz odpadów w gminie Ślesin w 2026&nbsp;roku</h1>
+    <p class="lead">Znajdź swoją miejscowość i zeskanuj kod QR telefonem. Terminy odbioru trafią do Twojego kalendarza.</p>
+  </header>
+
+  <main class="layout">
+    <div class="steps">
+      <section class="step" aria-labelledby="h-place">
+        <h2 id="h-place">Twoja miejscowość</h2>
+        <label class="sr" for="q">Szukaj miejscowości</label>
+        <input id="q" class="search" type="search" placeholder="Wpisz nazwę, np. Licheń" autocomplete="off" enterkeyhint="search">
+        <ul id="places" class="places"></ul>
+        <p id="noresults" class="noresults" hidden>Nie ma takiej miejscowości na liście. Sprawdź pisownię.</p>
+      </section>
+
+      <section class="step" aria-labelledby="h-types">
+        <h2 id="h-types">Co dodać do kalendarza</h2>
+        <p class="step-hint">Odznacz rodzaje odpadów, których nie potrzebujesz. Kod QR zmieni się razem z wyborem.</p>
+        <div id="types" class="types"></div>
+      </section>
+    </div>
+
+    <aside class="qr-panel" id="panel" aria-live="polite"></aside>
+  </main>
+
+  <footer class="foot">
+    <p>Terminy przepisano z harmonogramu wywozu odpadów komunalnych z nieruchomości zamieszkałych (miasto i gmina Ślesin, styczeń–grudzień 2026). Jeśli coś się nie zgadza, obowiązuje harmonogram urzędu.</p>
+    <p>W kalendarzu każdy termin to wydarzenie całodniowe z przypomnieniem o 18:00 dzień wcześniej.</p>
+  </footer>
+</div>
+
+<script src="vendor/qrcode.js"></script>
+<script src="data.js"></script>
+<script>
+(function () {
+  "use strict";
+  var D = window.WASTE_DATA;
+  var TYPES = D.types;
+  var FULL = TYPES.reduce(function (s, t) { return s | t.bit; }, 0);
+  var GROUPS = {};
+  D.groups.forEach(function (g) { GROUPS[g.id] = g; });
+
+  var els = {
+    q: document.getElementById("q"),
+    places: document.getElementById("places"),
+    none: document.getElementById("noresults"),
+    types: document.getElementById("types"),
+    panel: document.getElementById("panel")
+  };
+  var state = { g: null, place: null, mask: FULL };
+
+  /* ---------- pomocnicze ---------- */
+  function norm(s) {
+    return s.toLowerCase().replace(/ł/g, "l").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+  function esc(s) {
+    return s.replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; });
+  }
+  function icsUrl() {
+    return new URL("ics/" + state.g + "-" + state.mask + ".ics", location.href).href;
+  }
+  function todayIso() {
+    var d = new Date();
+    return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+  }
+  function nextDate(dates) {
+    var t = todayIso();
+    for (var i = 0; i < dates.length; i++) if (dates[i] >= t) return dates[i];
+    return null;
+  }
+  function prettyDate(iso) {
+    var t = todayIso();
+    var d = new Date(iso + "T12:00:00");
+    var base = new Intl.DateTimeFormat("pl-PL", { weekday: "long", day: "numeric", month: "long" }).format(d);
+    if (iso === t) return "dziś, " + base;
+    var tomorrow = new Date(); tomorrow.setDate(tomorrow.getDate() + 1);
+    var tIso = tomorrow.getFullYear() + "-" + String(tomorrow.getMonth() + 1).padStart(2, "0") + "-" + String(tomorrow.getDate()).padStart(2, "0");
+    if (iso === tIso) return "jutro, " + base;
+    return base;
+  }
+
+  /* ---------- lista miejscowości ---------- */
+  var PLACES = [];
+  D.groups.forEach(function (g) {
+    g.places.forEach(function (name) {
+      var town = g.id === "pon";
+      PLACES.push({
+        name: name, g: g.id, town: town,
+        hay: norm(name + (town ? " slesin miasto" : ""))
+      });
+    });
+  });
+  PLACES.sort(function (a, b) { return a.name.localeCompare(b.name, "pl"); });
+
+  function renderPlaces() {
+    var q = norm(els.q.value.trim());
+    var html = "", shown = 0;
+    PLACES.forEach(function (p, i) {
+      if (q && p.hay.indexOf(q) === -1) return;
+      shown++;
+      var cur = state.place === p.name ? ' aria-current="true"' : "";
+      var where = (p.town ? "Ślesin · " : "") + GROUPS[p.g].day;
+      html += '<li><button type="button" class="place" data-i="' + i + '"' + cur + '>' +
+              '<span>' + esc(p.name) + '</span><span class="where">' + where + '</span></button></li>';
+    });
+    els.places.innerHTML = html;
+    els.none.hidden = shown !== 0;
+    els.places.hidden = shown === 0;
+  }
+
+  /* ---------- rodzaje odpadów ---------- */
+  function renderTypes() {
+    var g = state.g ? GROUPS[state.g] : null;
+    els.types.innerHTML = TYPES.map(function (t) {
+      var next = "";
+      if (g) {
+        var n = nextDate(g.dates[t.id]);
+        next = n ? "Najbliższy odbiór: " + prettyDate(n) : "W tym roku nie ma już terminów";
+      } else {
+        next = "Najpierw wybierz miejscowość";
+      }
+      return '<label class="type" style="--tone:' + t.color + '">' +
+        '<input type="checkbox" data-bit="' + t.bit + '"' + (state.mask & t.bit ? " checked" : "") + '>' +
+        '<span><span class="name"><span class="swatch" aria-hidden="true"></span>' + esc(t.name) + '</span>' +
+        '<span class="next">' + next + '</span></span></label>';
+    }).join("");
+  }
+
+  /* ---------- kod QR ---------- */
+  function makeQr(text) {
+    var qr = qrcode(0, "M");
+    qr.addData(text, "Byte");
+    qr.make();
+    return qr;
+  }
+  var QUIET = 4;
+  function qrSvg(qr, label) {
+    var n = qr.getModuleCount(), size = n + QUIET * 2, d = "";
+    for (var r = 0; r < n; r++) {
+      var c = 0;
+      while (c < n) {
+        if (qr.isDark(r, c)) {
+          var start = c;
+          while (c < n && qr.isDark(r, c)) c++;
+          d += "M" + (start + QUIET) + " " + (r + QUIET) + "h" + (c - start) + "v1h-" + (c - start) + "z";
+        } else c++;
+      }
+    }
+    return '<svg viewBox="0 0 ' + size + " " + size + '" role="img" aria-label="' + esc(label) +
+      '" shape-rendering="crispEdges"><rect width="' + size + '" height="' + size + '" fill="#fff"/>' +
+      '<path d="' + d + '" fill="#000"/></svg>';
+  }
+  function downloadPng(url, filename) {
+    var qr = makeQr(url), n = qr.getModuleCount(), scale = 12;
+    var size = (n + QUIET * 2) * scale;
+    var cv = document.createElement("canvas");
+    cv.width = cv.height = size;
+    var ctx = cv.getContext("2d");
+    ctx.fillStyle = "#fff"; ctx.fillRect(0, 0, size, size);
+    ctx.fillStyle = "#000";
+    for (var r = 0; r < n; r++) for (var c = 0; c < n; c++)
+      if (qr.isDark(r, c)) ctx.fillRect((c + QUIET) * scale, (r + QUIET) * scale, scale, scale);
+    cv.toBlob(function (blob) {
+      var a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = filename;
+      document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(function () { URL.revokeObjectURL(a.href); }, 2000);
+    }, "image/png");
+  }
+
+  function setStatus(msg) {
+    var s = document.getElementById("status");
+    if (s) s.textContent = msg;
+  }
+
+  /* ---------- panel ---------- */
+  function renderPanel() {
+    if (!state.g) {
+      els.panel.innerHTML = '<h2>Kod QR</h2><p class="empty">Wybierz miejscowość z listy. Tutaj pojawi się kod QR z terminami wywozu odpadów.</p>';
+      return;
+    }
+    if (!state.mask) {
+      els.panel.innerHTML = '<h2>Kod QR</h2><p class="empty">Zaznacz co najmniej jeden rodzaj odpadów, aby zobaczyć kod QR.</p>';
+      return;
+    }
+    var g = GROUPS[state.g];
+    var url = icsUrl();
+    var qr = makeQr(url);
+    var chosen = TYPES.filter(function (t) { return state.mask & t.bit; }).map(function (t) { return t.name.toLowerCase(); });
+    var label = "Kod QR: odbiór odpadów " + g.dayAcc + " (" + chosen.join(", ") + ")";
+    var webcal = url.replace(/^https?:/, "webcal:");
+    var local = location.protocol === "file:";
+
+    els.panel.innerHTML =
+      '<p class="print-only"><strong>Wywóz odpadów – gmina Ślesin 2026</strong><br>Rodzaje: ' + esc(chosen.join(", ")) + '</p>' +
+      '<h2>Odbiór ' + g.dayAcc + '</h2>' +
+      '<p class="sub">' + (state.place ? esc(state.place) + (g.places.length > 1 ? " i " + (g.places.length - 1) + " innych" : "") : g.places.length + " miejscowości") + '</p>' +
+      '<div class="qr-tile">' + qrSvg(qr, label) + '</div>' +
+      '<p class="scan-note">Zeskanuj aparatem telefonu. Otworzy się plik kalendarza, w którym wybierzesz „Dodaj wszystkie”.</p>' +
+      '<a class="btn btn-main" href="' + esc(url) + '" download>Dodaj do kalendarza</a>' +
+      '<div class="btn-row">' +
+        '<button type="button" class="btn btn-alt" id="b-png">Zapisz QR</button>' +
+        '<button type="button" class="btn btn-alt" id="b-print">Drukuj</button>' +
+        '<button type="button" class="btn btn-alt" id="b-copy">Kopiuj link</button>' +
+      '</div>' +
+      '<p class="status" id="status" role="status"></p>' +
+      (local ? '<p class="warn">Strona jest otwarta z dysku. Kod QR zadziała dopiero po opublikowaniu jej w GitHub Pages.</p>' : "") +
+      '<details class="group" open><summary>Miejscowości w tym kalendarzu (' + g.places.length + ')</summary><p>' + g.places.map(esc).join(", ") + '</p></details>' +
+      '<a class="alt-link" href="' + esc(webcal) + '">Wolisz subskrypcję? Otwórz jako kalendarz (iPhone, Mac, Outlook)</a>';
+
+    document.getElementById("b-png").onclick = function () {
+      downloadPng(url, "odpady-slesin-" + state.g + ".png");
+      setStatus("Zapisano obraz kodu QR.");
+    };
+    document.getElementById("b-print").onclick = function () { window.print(); };
+    document.getElementById("b-copy").onclick = function () {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(function () { setStatus("Link skopiowany."); },
+          function () { setStatus("Nie udało się skopiować. Zaznacz link ręcznie."); });
+      } else { setStatus("Twoja przeglądarka nie pozwala kopiować. Użyj przycisku „Dodaj do kalendarza”."); }
+    };
+  }
+
+  /* ---------- stan i adres (#czw-31) ---------- */
+  function syncHash() {
+    var h = state.g ? "#" + state.g + "-" + state.mask : location.pathname + location.search;
+    try { history.replaceState(null, "", h); } catch (e) { /* file:// */ }
+  }
+  function readHash() {
+    var m = /^#([a-z]{3})-(\d+)$/.exec(location.hash);
+    if (!m || !GROUPS[m[1]]) return;
+    var mask = parseInt(m[2], 10);
+    if (mask < 0 || mask > FULL) return;
+    state.g = m[1]; state.mask = mask;
+  }
+  function render() { renderPlaces(); renderTypes(); renderPanel(); }
+
+  /* ---------- zdarzenia ---------- */
+  els.q.addEventListener("input", renderPlaces);
+  els.places.addEventListener("click", function (e) {
+    var b = e.target.closest(".place");
+    if (!b) return;
+    var p = PLACES[+b.getAttribute("data-i")];
+    state.g = p.g; state.place = p.name;
+    syncHash(); render();
+    if (window.matchMedia("(max-width: 51.99rem)").matches) {
+      document.getElementById("h-types").scrollIntoView({ behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
+    }
+  });
+  els.types.addEventListener("change", function (e) {
+    var bit = +e.target.getAttribute("data-bit");
+    if (!bit) return;
+    state.mask = e.target.checked ? (state.mask | bit) : (state.mask & ~bit);
+    syncHash(); renderPanel();
+  });
+  window.addEventListener("hashchange", function () { readHash(); render(); });
+
+  readHash();
+  render();
+})();
+</script>
+</body>
+</html>

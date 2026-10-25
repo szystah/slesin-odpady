@@ -1,0 +1,349 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (wtorek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:wto-20260120-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260217-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260303-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260317-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260414-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260428-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260512-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260526-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260609-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260623-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260707-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260721-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260804-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260818-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260901-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20260915-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261013-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261027-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261110-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wto-20261208-pa@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🗑️ Wywóz odpadów: papier i plastik
+DESCRIPTION:Segregowane: papier\, plastik\n\nMiejscowości: Honoratka\, Wł
+ adysławów\, Rębowo\, Lubomyśle\, Dąbrowa Duża\, Dąbrowa Mała\, Bie
+ le\, Goranin\, Goraninek\, Lizawy\, Mikorzyn\, Różnowo\, Biskupie Sarnow
+ skie\, Sarnowa\, Florentynowo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

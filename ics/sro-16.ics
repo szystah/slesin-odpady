@@ -1,0 +1,459 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (środa)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:sro-20260114-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260128-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260211-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260225-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260311-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260325-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260408-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260422-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260506-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260520-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260603-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260617-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260701-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260715-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260729-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260812-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260826-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260909-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260923-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261007-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261021-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261104-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261118-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261202-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261216-bi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🗑️ Wywóz odpadów: bio
+DESCRIPTION:Biodegradowalne (worki koloru brązowego)\n\nMiejscowości: Bis
+ kupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Ki
+ jowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Mar
+ ianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\,
+  Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,867 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (poniedziałek)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:pon-20260105-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260112-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260119-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260126-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260202-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260209-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260216-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260223-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260302-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260309-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260316-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260323-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260330-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260407-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka\n\nTermin przesuni
+ ęty ze względu na święto: Poniedziałek Wielkanocny.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260413-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260420-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260427-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260504-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Osiedle Powstańców 
+ Wielkopolskich\, Osiedle „Stare Miasto”\, Osiedle „Północ”\, Osi
+ edle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260511-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260518-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260525-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260601-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Osiedle Powstańców 
+ Wielkopolskich\, Osiedle „Stare Miasto”\, Osiedle „Północ”\, Osi
+ edle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260608-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260615-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260622-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260629-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Osiedle Powstańców 
+ Wielkopolskich\, Osiedle „Stare Miasto”\, Osiedle „Północ”\, Osi
+ edle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260706-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260713-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260720-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260727-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Osiedle Powstańców 
+ Wielkopolskich\, Osiedle „Stare Miasto”\, Osiedle „Północ”\, Osi
+ edle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260803-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260810-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260817-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260824-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Osiedle Powstańców 
+ Wielkopolskich\, Osiedle „Stare Miasto”\, Osiedle „Północ”\, Osi
+ edle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260831-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260907-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260914-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260921-nibi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nBiodegr
+ adowalne (worki koloru brązowego)\n\nMiejscowości: Osiedle Powstańców 
+ Wielkopolskich\, Osiedle „Stare Miasto”\, Osiedle „Północ”\, Osi
+ edle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20260928-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261005-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261012-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261019-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261026-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261102-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261109-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261116-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261123-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261130-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261207-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261214-nipobi@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel\, bio
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\nBiodegradowalne (worki koloru brązowego
+ )\n\nMiejscowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare
+  Miasto”\, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261221-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pon-20261228-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Osiedle Powstańców Wielkopolskich\, Osiedle „Stare Miasto”
+ \, Osiedle „Północ”\, Osiedle Krzyżka
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

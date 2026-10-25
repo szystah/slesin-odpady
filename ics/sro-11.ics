@@ -1,0 +1,998 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram odpadow Slesin 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odpady – Ślesin (środa)
+X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
+ ny harmonogram urzędu.
+BEGIN:VEVENT
+UID:sro-20260107-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260114-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260121-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260128-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260204-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260211-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260218-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260225-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260304-nisz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, szkło
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: szkło\n\nMiejscowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, G
+ iętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Ki
+ jowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, T
+ eodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Konstantynówek\, Ostro
+ wy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260311-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260318-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260325-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260401-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260408-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260415-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260422-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260429-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260506-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260513-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260520-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260527-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260603-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260610-nisz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, szkło
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: szkło\n\nMiejscowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, G
+ iętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Ki
+ jowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, T
+ eodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Konstantynówek\, Ostro
+ wy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260617-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260624-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260701-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260708-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260715-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260722-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260729-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260805-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260812-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260819-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260826-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260902-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260909-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260916-nisz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, szkło
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: szkło\n\nMiejscowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, G
+ iętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Ki
+ jowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, T
+ eodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Konstantynówek\, Ostro
+ wy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260923-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20260930-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261007-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261014-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261021-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261028-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261104-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261110-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec\n\nTermin przesunięty ze względu na święto: Święto Nie
+ podległości (11.11).
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261118-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261125-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261202-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261209-nisz@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, szkło
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nSegrego
+ wane: szkło\n\nMiejscowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, G
+ iętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Ki
+ jowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, T
+ eodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Konstantynówek\, Ostro
+ wy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261216-nipo@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane\, popiół i żużel
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\nPopió
+ ł i żużel z palenisk domowych\n\nMiejscowości: Biskupie\, Kolonia Sarn
+ owa\, Ostrowąż\, Giętkowo\, Ostrowąż-Kolonia\, Kijowiec\, Kijowskie N
+ owiny\, Ściany\, Kijowiec-Szyszynek\, Szyszynek\, Marianowo\, Szyszyn\, H
+ elenowo\, Pole B\, Teodorowo\, Szyszyńskie Holendry\, Konstantynowo\, Kon
+ stantynówek\, Ostrowy\, Stanisławowo\, Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261223-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sro-20261230-ni@odpady-slesin-2026
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🗑️ Wywóz odpadów: niesegregowane
+DESCRIPTION:Niesegregowane (pojemniki lub worki koloru czerwonego)\n\nMiejs
+ cowości: Biskupie\, Kolonia Sarnowa\, Ostrowąż\, Giętkowo\, Ostrowąż
+ -Kolonia\, Kijowiec\, Kijowskie Nowiny\, Ściany\, Kijowiec-Szyszynek\, Sz
+ yszynek\, Marianowo\, Szyszyn\, Helenowo\, Pole B\, Teodorowo\, Szyszyńsk
+ ie Holendry\, Konstantynowo\, Konstantynówek\, Ostrowy\, Stanisławowo\, 
+ Żółwieniec
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jutro wywóz odpadów – wystaw pojemniki
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
