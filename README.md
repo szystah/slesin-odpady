@@ -6,7 +6,7 @@ a strona pokazuje kod QR prowadzący do pliku `.ics` z terminami wywozu.
 ## Publikacja w GitHub Pages
 1. Utwórz repozytorium i wrzuć do niego całą zawartość tego katalogu (razem z `ics/`, `vendor/`, `data.js`, `.nojekyll`).
 2. *Settings → Pages → Build and deployment → Deploy from a branch* → gałąź `main`, katalog `/ (root)`.
-3. Po chwili strona będzie pod adresem `https://TWOJA-NAZWA.github.io/NAZWA-REPO/`.
+3. Po chwili strona będzie pod adresem `https://szystah.github.io/slesin-odpady/`.
 
 Kody QR są liczone w przeglądarce z adresu, pod którym strona jest otwarta, więc nie trzeba nigdzie wpisywać domeny.
 Otwarcie `index.html` z dysku pokaże stronę, ale kod QR będzie wtedy wskazywał na plik lokalny.
