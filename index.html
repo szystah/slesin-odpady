@@ -166,7 +166,7 @@ details.group p { margin: 0.5rem 0 0; color: var(--forest-muted); font-size: 0.9
 
   <footer class="foot">
     <p>Terminy przepisano z harmonogramu wywozu odpadów komunalnych z nieruchomości zamieszkałych (miasto i gmina Ślesin, styczeń–grudzień 2026). Jeśli coś się nie zgadza, obowiązuje harmonogram urzędu.</p>
-    <p>W kalendarzu każdy termin to wydarzenie całodniowe z przypomnieniem o 18:00 dzień wcześniej.</p>
+    <p>Każdy termin to wydarzenie całodniowe. Powiadomienie dzień wcześniej ustawia się raz w ustawieniach dodanego kalendarza. Instrukcja jest na stronie otwieranej z kodu QR.</p>
   </footer>
 </div>
 
@@ -199,6 +199,10 @@ details.group p { margin: 0.5rem 0 0; color: var(--forest-muted); font-size: 0.9
   }
   function icsUrl() {
     return new URL("ics/" + state.g + "-" + state.mask + ".ics", location.href).href;
+  }
+  // Adres z kodu QR: strona, która dodaje terminy jako osobny kalendarz
+  function addUrl() {
+    return new URL("dodaj.html#" + state.g + "-" + state.mask, location.href).href;
   }
   function todayIso() {
     var d = new Date();
@@ -326,11 +330,11 @@ details.group p { margin: 0.5rem 0 0; color: var(--forest-muted); font-size: 0.9
       return;
     }
     var g = GROUPS[state.g];
-    var url = icsUrl();
+    var ics = icsUrl();
+    var url = addUrl();
     var qr = makeQr(url);
     var chosen = TYPES.filter(function (t) { return state.mask & t.bit; }).map(function (t) { return t.name.toLowerCase(); });
     var label = "Kod QR: odbiór odpadów " + g.dayAcc + " (" + chosen.join(", ") + ")";
-    var webcal = url.replace(/^https?:/, "webcal:");
     var local = location.protocol === "file:";
 
     els.panel.innerHTML =
@@ -338,8 +342,8 @@ details.group p { margin: 0.5rem 0 0; color: var(--forest-muted); font-size: 0.9
       '<h2>Odbiór ' + g.dayAcc + '</h2>' +
       '<p class="sub">' + (state.place ? esc(state.place) + (g.places.length > 1 ? " i " + (g.places.length - 1) + " innych" : "") : g.places.length + " miejscowości") + '</p>' +
       '<div class="qr-tile">' + qrSvg(qr, label) + '</div>' +
-      '<p class="scan-note">Zeskanuj aparatem telefonu. Otworzy się plik kalendarza, w którym wybierzesz „Dodaj wszystkie”.</p>' +
-      '<a class="btn btn-main" href="' + esc(url) + '" download>Dodaj do kalendarza</a>' +
+      '<p class="scan-note">Zeskanuj aparatem telefonu. Otworzy się strona, na której dodasz terminy jako osobny kalendarz.</p>' +
+      '<a class="btn btn-main" href="' + esc(url) + '">Dodaj jako osobny kalendarz</a>' +
       '<div class="btn-row">' +
         '<button type="button" class="btn btn-alt" id="b-png">Zapisz QR</button>' +
         '<button type="button" class="btn btn-alt" id="b-print">Drukuj</button>' +
@@ -348,7 +352,7 @@ details.group p { margin: 0.5rem 0 0; color: var(--forest-muted); font-size: 0.9
       '<p class="status" id="status" role="status"></p>' +
       (local ? '<p class="warn">Strona jest otwarta z dysku. Kod QR zadziała dopiero po opublikowaniu jej w GitHub Pages.</p>' : "") +
       '<details class="group" open><summary>Miejscowości w tym kalendarzu (' + g.places.length + ')</summary><p>' + g.places.map(esc).join(", ") + '</p></details>' +
-      '<a class="alt-link" href="' + esc(webcal) + '">Wolisz subskrypcję? Otwórz jako kalendarz (iPhone, Mac, Outlook)</a>';
+      '<a class="alt-link" href="' + esc(ics) + '" download>Wolisz jednorazowy import? Pobierz plik .ics</a>';
 
     document.getElementById("b-png").onclick = function () {
       downloadPng(url, "odpady-slesin-" + state.g + ".png");
@@ -359,7 +363,7 @@ details.group p { margin: 0.5rem 0 0; color: var(--forest-muted); font-size: 0.9
       if (navigator.clipboard && navigator.clipboard.writeText) {
         navigator.clipboard.writeText(url).then(function () { setStatus("Link skopiowany."); },
           function () { setStatus("Nie udało się skopiować. Zaznacz link ręcznie."); });
-      } else { setStatus("Twoja przeglądarka nie pozwala kopiować. Użyj przycisku „Dodaj do kalendarza”."); }
+      } else { setStatus("Twoja przeglądarka nie pozwala kopiować. Użyj przycisku „Dodaj jako osobny kalendarz”."); }
     };
   }
 

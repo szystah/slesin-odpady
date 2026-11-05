@@ -196,6 +196,8 @@ def build_ics(group, mask, all_dates):
     places = ", ".join(g["places"])
     day_name = DAYS_PL[g["weekday"]]
     cal_name = f"Odpady – Ślesin ({day_name})"
+    if mask != FULL_MASK:
+        cal_name += ": " + ", ".join(t[3] for t in chosen)
     lines = [
         "BEGIN:VCALENDAR", "VERSION:2.0",
         "PRODID:-//Harmonogram odpadow Slesin 2026//PL",

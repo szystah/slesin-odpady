@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dodaj terminy wywozu odpadów do kalendarza</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root { --bg:#E6ECE2; --ink:#16241B; --muted:#55645A; --line:#B7C3B3; --forest:#14301F; --focus:#0B5FD6;
+  --font:"Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+*, *::before, *::after { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font-family:var(--font); font-size:1.0625rem; line-height:1.5; }
+:focus-visible { outline:3px solid var(--focus); outline-offset:2px; }
+main { max-width:34rem; margin:0 auto; padding:1.5rem 1.25rem 3rem; }
+h1 { font-size:clamp(1.6rem,6vw,2.2rem); line-height:1.15; margin:0 0 0.5rem; letter-spacing:-0.01em; }
+h2 { font-size:1.15rem; margin:2rem 0 0.5rem; }
+.who { margin:0 0 1.5rem; color:var(--muted); }
+.actions { display:flex; flex-direction:column; gap:0.6rem; }
+.btn { display:block; padding:0.9rem 1rem; border-radius:0.5rem; border:2px solid var(--forest); text-decoration:none;
+  font-weight:700; color:var(--forest); background:transparent; }
+.btn small { display:block; font-weight:400; color:var(--muted); }
+.btn.primary { background:var(--forest); color:#EAF2E6; }
+.btn.primary small { color:#A9BDAF; }
+ol { padding-left:1.25rem; margin:0.5rem 0; }
+li { margin-bottom:0.4rem; }
+.note { color:var(--muted); font-size:0.95rem; }
+.error { padding:0.8rem 1rem; background:#FFE9A8; color:#3D2F00; border-radius:0.5rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Terminy wywozu odpadów w kalendarzu</h1>
+  <p class="who" id="who"></p>
+
+  <div class="actions" id="actions" hidden>
+    <a class="btn primary" id="google" rel="noopener">Kalendarz Google
+      <small>Android i komputer. Powstanie osobny kalendarz.</small></a>
+    <a class="btn" id="apple">iPhone, Mac, Outlook
+      <small>Subskrypcja jako osobny kalendarz.</small></a>
+    <a class="btn" id="file" download>Pobierz plik .ics
+      <small>Jednorazowy import do wybranego kalendarza.</small></a>
+  </div>
+  <p class="error" id="err" hidden>Nie rozpoznano tego linku. Wróć na stronę główną i wybierz miejscowość ponownie.</p>
+
+  <section id="help" hidden>
+    <h2>Powiadomienie dzień wcześniej</h2>
+    <p class="note">Kalendarz Google nie przejmuje przypomnień z pliku, więc ustaw je raz dla całego kalendarza:</p>
+    <ol>
+      <li>Aplikacja Kalendarz → menu ☰ → <strong>Ustawienia</strong> → nazwa kalendarza „Odpady – Ślesin”.</li>
+      <li>Wejdź w <strong>Powiadomienia o wydarzeniach całodniowych</strong> → <strong>Dodaj powiadomienie</strong>.</li>
+      <li>Wybierz <strong>1 dzień wcześniej, godz. 18:00</strong>.</li>
+    </ol>
+    <p class="note">Jeśli kalendarza nie widać w aplikacji, w tym samym menu zaznacz go na liście i włącz synchronizację.</p>
+
+    <h2>Jak usunąć</h2>
+    <p class="note">Kalendarz Google na komputerze → Ustawienia → nazwa kalendarza → <strong>Anuluj subskrypcję</strong>. Znikają wszystkie terminy naraz.</p>
+  </section>
+</main>
+<script>
+(function () {
+  var GROUPS = { pon: "poniedziałki", wto: "wtorki", sro: "środy", czw: "czwartki", pia: "piątki" };
+  var m = /^#(pon|wto|sro|czw|pia)-(\d+)$/.exec(location.hash);
+  var mask = m ? parseInt(m[2], 10) : 0;
+  if (!m || mask < 1 || mask > 31) { document.getElementById("err").hidden = false; return; }
+
+  var ics = new URL("ics/" + m[1] + "-" + m[2] + ".ics", location.href).href;
+  var webcal = ics.replace(/^https?:/, "webcal:");
+  document.getElementById("who").textContent = "Odbiór odpadów w " + GROUPS[m[1]] + ". Wybierz, gdzie dodać terminy.";
+  document.getElementById("google").href = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(webcal);
+  document.getElementById("apple").href = webcal;
+  document.getElementById("file").href = ics;
+  document.getElementById("actions").hidden = false;
+  document.getElementById("help").hidden = false;
+
+  // Na iPhonie i Macu pierwsza jest subskrypcja Apple
+  if (/iPhone|iPad|Macintosh/.test(navigator.userAgent)) {
+    var a = document.getElementById("apple"), g = document.getElementById("google");
+    a.classList.add("primary"); g.classList.remove("primary");
+    a.parentNode.insertBefore(a, g);
+  }
+})();
+</script>
+</body>
+</html>

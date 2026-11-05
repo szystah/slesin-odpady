@@ -3,7 +3,8 @@ VERSION:2.0
 PRODID:-//Harmonogram odpadow Slesin 2026//PL
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Odpady – Ślesin (poniedziałek)
+X-WR-CALNAME:Odpady – Ślesin (poniedziałek): niesegregowane\, papier i 
+ plastik\, szkło
 X-WR-CALDESC:Terminy wywozu odpadów komunalnych w 2026 r. Sprawdź oficjal
  ny harmonogram urzędu.
 BEGIN:VEVENT
